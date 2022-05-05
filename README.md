@@ -5,10 +5,7 @@
 ***
 ## **Introducción**
 ***
-Según Lev Manovich es a partir de finales de los setenta cuando aparece una nueva fase de la evolución del ordenador como
-metamedio, es la hibridación de los medios, donde se fusionan las interfaces y los elementos que comparten las técnicas de
-software para ofrecer una experiencia nueva y coherente, ya no se experimentan los elementos uno por uno, se transforman en 
-nuevos componentes esenciales.
+Según Lev Manovich es a partir de finales de los setenta cuando aparece una nueva fase de la evolución del ordenador como metamedio, es la hibridación de los medios, donde se fusionan las interfaces y los elementos que comparten las técnicas de software para ofrecer una experiencia nueva y coherente, ya no se experimentan los elementos uno por uno, se transforman en nuevos componentes esenciales.
 
 ~~~
     “Se puede decir que la hibridación es cuando se agrupan técnicas y formatos de representación de medios físicos y electrónicos
@@ -16,14 +13,10 @@ nuevos componentes esenciales.
     nuevas combinaciones” Lev Manovich, El software toma el mando.
 ~~~
 
-Para esta actividad hay que buscar dos ejemplos de hibridación y redactar un ensayo. Después de darle muchas vueltas a los 
-posibles ejemplos he consensuado con el profesor tratar los temas:
+Para esta actividad hay que buscar dos ejemplos de hibridación y redactar un ensayo. Después de darle muchas vueltas a los posibles ejemplos he consensuado con el profesor tratar los temas:
     - Google Earth
     - La app Traductor de Google.
-Tengo que decir que no he utilizado ninguna de las dos, que las estoy conociendo ahora. Como traductor he utilizado otras 
-aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividad
-En nuestro entorno hay muchísimos ejemplos de hibridación, son mezclas de contenidos y/o componentes que al integrarse entre 
-ellos le transmiten una nueva experiencia al usuario 
+Tengo que decir que no he utilizado ninguna de las dos, que las estoy conociendo ahora. Como traductor he utilizado otras aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividadEn nuestro entorno hay muchísimos ejemplos de hibridación, son mezclas de contenidos y/o componentes que al integrarse entre ellos le transmiten una nueva experiencia al usuario 
 
 
 
