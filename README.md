@@ -5,7 +5,7 @@
 ***
 ## **Introducción**
 ***
-Según Lev Manovich es a partir de finales de los setenta cuando aparece una nueva fase de la evolución del ordenador como metamedio, es la hibridación de los medios, donde se fusionan las interfaces y los elementos que comparten las técnicas de software para ofrecer una experiencia nueva y coherente, ya no se experimentan los elementos uno por uno, se transforman en nuevos componentes esenciales.
+Según Lev Manovich es a partir de finales de los setenta cuando aparece una nueva fase de la evolución del ordenador como metamedio, es la hibridación de los medios, donde se fusionan las interfaces y los elementos que comparten las técnicas de software para ofrecer una experiencia nueva y coherente, ya no se experimentan los elementos uno por uno, se transforman en nuevos componentes esenciales. Se puede utilizar una única aplicación de software en la que se aplican las diversas técnicas y si surgiera un nuevo algoritmo o éste se tiene que renovar, se haría directamente a través de "plugins" de la misma aplicación.
 
 ~~~
     “Se puede decir que la hibridación es cuando se agrupan técnicas y formatos de representación de medios físicos y electrónicos
@@ -39,6 +39,11 @@ Existen otras variantes de Google Earth como:
 - Google Earth Pro con la que se puede importar o exportar datos GIS, realizar mediciones de distancias avanzadas de áreas, otrabajar con datos de catastro de algunos países (muy útil para calcular los metros cuadrados de una zona concreta y saber el último precio de venta de una propiedad entre otros.
 - Google Earth VR que es la versión en realidad virtual, permite explorar el mundo como si fuéramos nosotros mismos quien lo sobrevolamos a través de un simulador de vuelo.
 - Google Earth Space con el que se pueden visitar otros planetas y ver representaciones de las estrellas y constelaciones.
+
+Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos que usa Google Earth como por ejemplo en las imágenes (visualización, información y metadatos...), goemetría (objetos gráficos, geográficos...), matrices, algoritmos especializados (algoritmos Landsat y Sentinel-1.), importación de archivos raster, importación de tablas de datos, exportación de datos...
+
+Este es un claro ejemplo de hibridación porque se han agrupado diversas técnicas y formatos para formar una nueva combinación,
+
 
 ## Re-descubriendo la hibridacion: Caso 2
 
