@@ -17,8 +17,6 @@ Para esta actividad hay que buscar dos ejemplos de hibridación y redactar un en
     - Google Earth
     - La app Traductor de Google.
 Tengo que decir que no he utilizado ninguna de las dos, que las estoy conociendo ahora. Como traductor he utilizado otras aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividadEn nuestro entorno hay muchísimos ejemplos de hibridación, son mezclas de contenidos y/o componentes que al integrarse entre ellos le transmiten una nueva experiencia al usuario 
-![images](https://user-images.githubusercontent.com/104820395/167017464-f4fb298d-41ba-407f-a17e-46d35957c80d.jpeg)
-
 
 ## Re-descubriendo la hibridacion: Google Earth
 
@@ -38,8 +36,6 @@ Es una herramienta que ha ido evolucionando. En la actualidad sus principales fu
 
 ![1366_2000](https://user-images.githubusercontent.com/104820395/167016493-155841f1-83fe-41ea-8770-e4c04050a3ac.png)
 
-![images](https://user-images.githubusercontent.com/104820395/167017510-267b7d6b-1bcf-4758-a2a3-8f3e6c7f1035.jpeg)
-
 Existen otras variantes de Google Earth como:
 - Google Earth Pro con la que se puede importar o exportar datos GIS, realizar mediciones de distancias avanzadas de áreas, otrabajar con datos de catastro de algunos países (muy útil para calcular los metros cuadrados de una zona concreta y saber el último precio de venta de una propiedad entre otros.
 - Google Earth VR que es la versión en realidad virtual, permite explorar el mundo como si fuéramos nosotros mismos quien lo sobrevolamos a través de un simulador de vuelo.
@@ -48,7 +44,7 @@ Existen otras variantes de Google Earth como:
 Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos que usa Google Earth como por ejemplo en las imágenes (visualización, información y metadatos...), goemetría (objetos gráficos, geográficos...), matrices, algoritmos especializados (algoritmos Landsat y Sentinel-1.), importación de archivos raster, importación de tablas de datos, exportación de datos...
 
 Este es un claro ejemplo de hibridación porque se han agrupado diversas técnicas y formatos para formar una nueva combinación,
-
+![images](https://user-images.githubusercontent.com/104820395/167017510-267b7d6b-1bcf-4758-a2a3-8f3e6c7f1035.jpeg)
 
 ## Re-descubriendo la hibridacion: Caso 2
 
