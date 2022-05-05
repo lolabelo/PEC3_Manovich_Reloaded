@@ -19,13 +19,18 @@ Para esta actividad hay que buscar dos ejemplos de hibridación y redactar un en
 Tengo que decir que no he utilizado ninguna de las dos, que las estoy conociendo ahora. Como traductor he utilizado otras aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividadEn nuestro entorno hay muchísimos ejemplos de hibridación, son mezclas de contenidos y/o componentes que al integrarse entre ellos le transmiten una nueva experiencia al usuario 
 
 
+## Re-descubriendo la hibridacion: Google Earth
 
-
-## Re-descubriendo la hibridacion: Caso 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
+Google Eart es una app que nos permite explorar el globo terráqueo a partir de datos cartográficos y de imágenes obtenidas por satélites de alta calidad y del modelado 3D realizado por Google, para poder apreciar el relieve de las construcciones y estructuras de todo el mundo.
+Es una herramiento que ha ido evolucionando, en la actualidad sus principales funciones son:
+* Visualizar de una manera precisa el globo terráqueo.
+* Otorgar volumen a valles, montañas o edificios.
+* Calcular la distancia que existe entre dos puntos del mapa.
+* Consultar la altura de montañas o ver fallas y volcanes de cerca.
+* Visulaizar el estado de las nubes
+* Con la función "voyager" se puede conocer historias sobre lugares concretos contadas por expertos.
+* Participar en minijuegos basados en nuestras habilidades geográficas.
+* En la opción "proyectos" es posible crear representaciones de distintos lugares a través de sus imágenes.
 
 ## Re-descubriendo la hibridacion: Caso 2
 
