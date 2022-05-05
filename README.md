@@ -21,16 +21,24 @@ Tengo que decir que no he utilizado ninguna de las dos, que las estoy conociendo
 
 ## Re-descubriendo la hibridacion: Google Earth
 
+![GoogleEarth](https://user-images.githubusercontent.com/104820395/167006066-8b168553-2be0-4a14-a530-0519ca6ca15e.jpeg)
+
+
 Google Eart es una app que nos permite explorar el globo terráqueo a partir de datos cartográficos y de imágenes obtenidas por satélites de alta calidad y del modelado 3D realizado por Google, para poder apreciar el relieve de las construcciones y estructuras de todo el mundo.
-Es una herramiento que ha ido evolucionando, en la actualidad sus principales funciones son:
+Es una herramienta que ha ido evolucionando. En la actualidad sus principales funciones son:
 * Visualizar de una manera precisa el globo terráqueo.
 * Otorgar volumen a valles, montañas o edificios.
 * Calcular la distancia que existe entre dos puntos del mapa.
 * Consultar la altura de montañas o ver fallas y volcanes de cerca.
 * Visulaizar el estado de las nubes
 * Con la función "voyager" se puede conocer historias sobre lugares concretos contadas por expertos.
-* Participar en minijuegos basados en nuestras habilidades geográficas.
+* Participar en minijuegos basados en nuestras habilidades geográficas, como por ejemplo "Carmen Sandiego: The Crown Jewels Caper"
 * En la opción "proyectos" es posible crear representaciones de distintos lugares a través de sus imágenes.
+
+Existen otras variantes de Google Earth como:
+- Google Earth Pro con la que se puede importar o exportar datos GIS, realizar mediciones de distancias avanzadas de áreas, otrabajar con datos de catastro de algunos países (muy útil para calcular los metros cuadrados de una zona concreta y saber el último precio de venta de una propiedad entre otros.
+- Google Earth VR que es la versión en realidad virtual, permite explorar el mundo como si fuéramos nosotros mismos quien lo sobrevolamos a través de un simulador de vuelo.
+- Google Earth Space con el que se pueden visitar otros planetas y ver representaciones de las estrellas y constelaciones.
 
 ## Re-descubriendo la hibridacion: Caso 2
 
