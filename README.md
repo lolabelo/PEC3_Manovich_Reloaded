@@ -14,8 +14,9 @@ Según Lev Manovich es a partir de finales de los setenta cuando aparece una nue
 ~~~
 
 Para esta actividad hay que buscar dos ejemplos de hibridación y redactar un ensayo. Después de darle muchas vueltas a los posibles ejemplos he consensuado con el profesor tratar los temas:
-    - Google Earth
-    - La app Traductor de Google.
+- Google Earth
+- La app Traductor de Google.
+ 
 Tengo que decir que no he utilizado ninguna de las dos, que las estoy conociendo ahora. Como traductor he utilizado otras aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividadEn nuestro entorno hay muchísimos ejemplos de hibridación, son mezclas de contenidos y/o componentes que al integrarse entre ellos le transmiten una nueva experiencia al usuario 
 
 ## Re-descubriendo la hibridacion: Google Earth
@@ -43,10 +44,12 @@ Existen otras variantes de Google Earth como:
 
 Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos que usa Google Earth como por ejemplo en las imágenes (visualización, información y metadatos...), goemetría (objetos gráficos, geográficos...), matrices, algoritmos especializados (algoritmos Landsat y Sentinel-1.), importación de archivos raster, importación de tablas de datos, exportación de datos...
 
-Este es un claro ejemplo de hibridación porque se han agrupado diversas técnicas y formatos para formar una nueva combinación,
+Este es un claro ejemplo de hibridación porque se han agrupado diversas técnicas y formatos para formar una nueva combinación.
+
+
 ![images](https://user-images.githubusercontent.com/104820395/167017510-267b7d6b-1bcf-4758-a2a3-8f3e6c7f1035.jpeg)
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion: App Traductor de Google
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
