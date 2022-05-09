@@ -35,7 +35,11 @@ Es una herramienta que ha ido evolucionando. En la actualidad sus principales fu
 * Participar en minijuegos basados en nuestras habilidades geográficas, como por ejemplo "Carmen Sandiego: The Crown Jewels Caper"
 * En la opción "proyectos" es posible crear representaciones de distintos lugares a través de sus imágenes.
 
+
+
 ![1366_2000](https://user-images.githubusercontent.com/104820395/167016493-155841f1-83fe-41ea-8770-e4c04050a3ac.png)
+
+
 
 Existen otras variantes de Google Earth como:
 - Google Earth Pro con la que se puede importar o exportar datos GIS, realizar mediciones de distancias avanzadas de áreas, otrabajar con datos de catastro de algunos países (muy útil para calcular los metros cuadrados de una zona concreta y saber el último precio de venta de una propiedad entre otros.
@@ -44,7 +48,7 @@ Existen otras variantes de Google Earth como:
 
 Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos que usa Google Earth como por ejemplo en las imágenes (visualización, información y metadatos...), goemetría (objetos gráficos, geográficos...), matrices, algoritmos especializados (algoritmos Landsat y Sentinel-1.), importación de archivos raster, importación de tablas de datos, exportación de datos...
 
-Este es un claro ejemplo de hibridación porque se han agrupado diversas técnicas y formatos para formar una nueva combinación.
+Este es un claro ejemplo de hibridación porque se han agrupado diversas técnicas y formatos como la combinación de mapas con representación 3D, conexión con GPS, diferentes interfaces según el idioma del país donde se encuentra el usuario, versión en los tres sistemas operativos más importantes (Windows, Linux y MAC), inclusión de enlaces y puntos de interés.
 
 
 ![images](https://user-images.githubusercontent.com/104820395/167017510-267b7d6b-1bcf-4758-a2a3-8f3e6c7f1035.jpeg)
