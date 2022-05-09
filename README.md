@@ -55,7 +55,10 @@ Este es un claro ejemplo de hibridación porque se han agrupado diversas técnic
 
 ## Re-descubriendo la hibridacion: App Traductor de Google
 
-Google Translate es una herramienta muy útil para la traducción de palabras y frases de un idioma a otro, pero no es lo único que hace, como veremos las funciones más conocidas son:
+![como-activar-el-traductor-de-google-en-una-pagina-de-google-chrome-1-1200x640](https://user-images.githubusercontent.com/104820395/167497421-2d55e3e9-abb7-4531-b5e4-b31bdff46b6f.jpeg)
+
+
+Google Translate es una herramienta muy útil para la traducción de palabras y frases de un idioma a otro, pero no es lo único que hace, las funciones más conocidas son:
 * Traduccionesde texto, como ya he dicho,
 * Traducciones fuera de línea
 * Traducciones instantáneas de cámara
@@ -63,7 +66,7 @@ Google Translate es una herramienta muy útil para la traducción de palabras y 
 * Conversaciones
 * Escritura a mano, entre otras.
 
-
+Para tratar el tema de la hibridación voy a poner como ejemplo la parte de las traducciones instantáneas de la cámara. 
 
 
 
