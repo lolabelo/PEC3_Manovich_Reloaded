@@ -61,7 +61,8 @@ Google Translate es una herramienta muy útil para la traducción de palabras y 
 * Traducciones instantáneas de cámara
 * Traducción a partir de una foto
 * Conversaciones
-* Escritura a mano, entre otras .
+* Escritura a mano, entre otras.
+
 
 
 
