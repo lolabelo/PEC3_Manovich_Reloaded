@@ -68,6 +68,25 @@ Google Translate es una herramienta muy útil para la traducción de palabras y 
 
 Para tratar el tema de la hibridación voy a poner como ejemplo la parte de las traducciones instantáneas de la cámara. 
 
+![maxresdefault](https://user-images.githubusercontent.com/104820395/167498056-6e760859-d567-4da5-aa5a-f6d9395a42ef.jpeg)
+
+Como dice Ferran Adel en su artículo ["remediación, multimedia e hibridación de los medios"](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Referencias y Bibliografía
