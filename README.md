@@ -84,17 +84,8 @@ Vemos cómo esta aplicación también es un claro ejemplo de hibidación, con la
 ### Conclusión
 
 
-Tengo que decir que no he utilizado ninguna de las dos, que las estoy conociendo ahora. Como traductor he utilizado otras aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividadEn nuestro entorno hay muchísimos ejemplos de hibridación, son mezclas de contenidos y/o componentes que al integrarse entre ellos le transmiten una nueva experiencia al usuario 
-
-
-
-
-
-
-
-
-
-
+Tengo que decir que no he utilizado ninguna de las dos aplicaciones que he mencionado y que las estoy conociendo ahora. Como traductor he utilizado otras aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividad.
+En nuestro entorno hay muchísimos ejemplos de hibridación, son mezclas de contenidos y/o componentes que al integrarse entre ellos le transmiten una nueva experiencia al usuario, casi todo lo que nos rodea podría ser un caso de hibridación.
 
 
 ### Referencias y Bibliografía
