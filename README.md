@@ -49,9 +49,7 @@ Existen otras variantes de Google Earth como:
 - Google Earth VR que es la versión en realidad virtual, permite explorar el mundo como si fuéramos nosotros mismos quien lo sobrevolamos a través de un simulador de vuelo.
 - Google Earth Space con el que se pueden visitar otros planetas y ver representaciones de las estrellas y constelaciones.
 
-Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos que usa Google Earth como por ejemplo en las imágenes (visualización, información y metadatos...), goemetría (objetos gráficos, geográficos...), matrices, algoritmos especializados (algoritmos Landsat y Sentinel-1.), importación de archivos raster, importación de tablas de datos, exportación de datos...
-
-Este es un claro ejemplo de hibridación porque se han agrupado diversas técnicas y formatos como la combinación de mapas con representación 3D, conexión con GPS, diferentes interfaces según el idioma del país donde se encuentra el usuario, versión en los tres sistemas operativos más importantes (Windows, Linux y MAC), inclusión de enlaces y puntos de interés.
+Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos que usa Google Earth como por ejemplo en las imágenes (visualización, información y metadatos...), goemetría (objetos gráficos, geográficos...), matrices, algoritmos especializados (algoritmos Landsat y Sentinel-1.), importación de archivos raster, importación de tablas de datos, exportación de datos, como la combinación de mapas con representación 3D, conexión con GPS, diferentes interfaces según el idioma del país donde se encuentra el usuario, versión en los tres sistemas operativos más importantes (Windows, Linux y MAC), inclusión de enlaces y puntos de interés,... Con esto quiero demostrar que esta aplicación es un claro ejemplo de hibridación ya que se han agrupado diversas técnicas y formato para crear una sola aplicación con todas las funciones juntas.
 
 
 ![images](https://user-images.githubusercontent.com/104820395/167017510-267b7d6b-1bcf-4758-a2a3-8f3e6c7f1035.jpeg)
