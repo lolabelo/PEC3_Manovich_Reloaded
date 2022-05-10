@@ -49,7 +49,7 @@ Existen otras variantes de Google Earth como:
 - Google Earth VR que es la versión en realidad virtual, permite explorar el mundo como si fuéramos nosotros mismos quien lo sobrevolamos a través de un simulador de vuelo.
 - Google Earth Space con el que se pueden visitar otros planetas y ver representaciones de las estrellas y constelaciones.
 
-Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos que usa Google Earth como por ejemplo en las imágenes (visualización, información y metadatos...), goemetría (objetos gráficos, geográficos...), matrices, algoritmos especializados (algoritmos Landsat y Sentinel-1.), importación de archivos raster, importación de tablas de datos, exportación de datos, como la combinación de mapas con representación 3D, conexión con GPS, diferentes interfaces según el idioma del país donde se encuentra el usuario, versión en los tres sistemas operativos más importantes (Windows, Linux y MAC), inclusión de enlaces y puntos de interés,... Con esto quiero demostrar que esta aplicación es un claro ejemplo de hibridación ya que se han agrupado diversas técnicas y formato para crear una sola aplicación con todas las funciones juntas.
+Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos que usa Google Earth como por ejemplo en las imágenes (visualización, información y metadatos...), goemetría (objetos gráficos, geográficos...), matrices, algoritmos especializados (algoritmos Landsat y Sentinel-1.), importación de archivos raster, importación de tablas de datos, exportación de datos, la combinación de mapas con representación 3D, conexión con GPS, diferentes interfaces según el idioma del país donde se encuentra el usuario, versión en los tres sistemas operativos más importantes (Windows, Linux y MAC), inclusión de enlaces y puntos de interés,... Con esto quiero demostrar que esta aplicación es un claro ejemplo de hibridación ya que se han agrupado diversas técnicas y formatos para crear una sola aplicación con todas las funciones juntas.
 
 
 ![images](https://user-images.githubusercontent.com/104820395/167017510-267b7d6b-1bcf-4758-a2a3-8f3e6c7f1035.jpeg)
@@ -77,9 +77,9 @@ Como dice Ferran Adel en su artículo ["remediación, multimedia e hibridación 
 en las técnicas de software que los hacen posibles y ... en cómo transmiten la experiencia al usuario, mediante una 
 suma independiente de componentes, o a través de un componente común que integra todos los elementos.". 
 ~~~
-Vemos cómo con la unión de las diferentes técnicas que se llevan a cabo para conseguir traducir el texto de una fotografía es un claro ejemplo de hibridación. Primero hay que abrir la cámara, sería el primer elemento que por sí solo ya tiene su función, se le añade el software necesario para que pueda detectar la letra de la foto y que la reconozca como texto y por último la traducción instantánea. 
+Vemos cómo esta aplicación también es un claro ejemplo de hibidación, con la unión de las diferentes técnicas que se llevan a cabo para conseguir traducir el texto de una fotografía. Primero hay que abrir la cámara, sería el primer elemento que por sí solo ya tiene su función, se le añade el software necesario para que pueda detectar la letra de la foto y que la reconozca como texto y por último la traducción instantánea. 
 
-Todas las características que he mencionado de esta aplicación son ejemplos claros de hibridación.
+
 
 ### Conclusión
 
