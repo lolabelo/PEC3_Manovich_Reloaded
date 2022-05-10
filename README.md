@@ -87,6 +87,7 @@ Todas las características que he mencionado de esta aplicación son ejemplos cl
 ### Conclusión
 
 
+Tengo que decir que no he utilizado ninguna de las dos, que las estoy conociendo ahora. Como traductor he utilizado otras aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividadEn nuestro entorno hay muchísimos ejemplos de hibridación, son mezclas de contenidos y/o componentes que al integrarse entre ellos le transmiten una nueva experiencia al usuario 
 
 
 
