@@ -87,10 +87,13 @@ Vemos cómo esta aplicación también es un claro ejemplo de hibidación, con la
 Tengo que decir que no he utilizado ninguna de las dos aplicaciones que he mencionado y que las estoy conociendo ahora. Como traductor he utilizado otras aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividad.
 En nuestro entorno hay muchísimos ejemplos de hibridación, son mezclas de contenidos y/o componentes que al integrarse entre ellos le transmiten una nueva experiencia al usuario, casi todo lo que nos rodea podría ser un caso de hibridación.
 
+Con el auge de compartir, comentar y etiquetar todo a través de las redes sociales, las dos aplicaciones que he comentado se hacen indispensables, ya que el hecho de poder traducir de manera inmediata cualquier texto o incluso mantener una conversación sin conocer la lengua consigue que los usuarios puedan interactuar con todo el mundo, y con Google Earth consigue que el usuario pueda viajar e incluso hacer rutas a vista de pájaro por cualquier lugar del mundo.
+
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* 
 
 
 ----
