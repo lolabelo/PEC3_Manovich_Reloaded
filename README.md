@@ -13,7 +13,8 @@ Según Lev Manovich es a partir de finales de los setenta cuando aparece una nue
     nuevas combinaciones” Lev Manovich, El software toma el mando.
 ~~~
 ~~~
-"Todas las técnicas y herramientas que anteriormente eran exclusivas de distintos medios <se reunieron> en el mismo entorno de software"
+    "Todas las técnicas y herramientas que anteriormente eran exclusivas de distintos medios <se reunieron> en el mismo entorno de 
+    software". Lev Manovich, El software toma el mando.
 ~~~
 
 Para esta actividad hay que buscar dos ejemplos de hibridación y redactar un ensayo. Después de darle muchas vueltas a los posibles ejemplos he consensuado con el profesor tratar los temas:
