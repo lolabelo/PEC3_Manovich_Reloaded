@@ -19,9 +19,10 @@ Para esta actividad hay que buscar dos ejemplos de hibridación y redactar un en
 - Google Earth
 - La app Traductor de Google.
  
-
+***
 ## Re-descubriendo la hibridacion: Google Earth
-
+***
+    
 ![GoogleEarth](https://user-images.githubusercontent.com/104820395/167006066-8b168553-2be0-4a14-a530-0519ca6ca15e.jpeg)
 
 
@@ -51,9 +52,9 @@ Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos
 
 
 ![images](https://user-images.githubusercontent.com/104820395/167017510-267b7d6b-1bcf-4758-a2a3-8f3e6c7f1035.jpeg)
-
+***
 ## Re-descubriendo la hibridacion: App Traductor de Google
-
+***
 ![como-activar-el-traductor-de-google-en-una-pagina-de-google-chrome-1-1200x640](https://user-images.githubusercontent.com/104820395/167497421-2d55e3e9-abb7-4531-b5e4-b31bdff46b6f.jpeg)
 
 
@@ -69,7 +70,7 @@ Para tratar el tema de la hibridación voy a poner como ejemplo la parte de las 
 
 ![maxresdefault](https://user-images.githubusercontent.com/104820395/167498056-6e760859-d567-4da5-aa5a-f6d9395a42ef.jpeg)
 
-Como dice Ferran Adel en su artículo ["remediación, multimedia e hibridación de los medios"](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+Como dice Ferran Adel en su artículo ["remediación, multimedia e hibridación de los medios"](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/): 
 
 > "la hibridación de los medios radica en la relación que se produce entre los diferentes componentes que los forman;
 en las técnicas de software que los hacen posibles y ... en cómo transmiten la experiencia al usuario, mediante una 
@@ -79,18 +80,19 @@ suma independiente de componentes, o a través de un componente común que integ
 Vemos cómo esta aplicación también es un claro ejemplo de hibidación, con la unión de las diferentes técnicas que se llevan a cabo para conseguir traducir el texto de una fotografía. Primero hay que abrir la cámara, sería el primer elemento que por sí solo ya tiene su función, se le añade el software necesario para que pueda detectar la letra de la foto y que la reconozca como texto y por último la traducción instantánea. 
 
 
-
+***
 ### Conclusión
-
+***
 
 Tengo que decir que no he utilizado ninguna de las dos aplicaciones que he mencionado y que las estoy conociendo ahora. Como traductor he utilizado otras aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividad.
 En nuestro entorno hay muchísimos ejemplos de hibridación, son mezclas de contenidos y/o componentes que al integrarse entre ellos le transmiten una nueva experiencia al usuario, casi todo lo que nos rodea podría ser un caso de hibridación.
 
 Con el auge de compartir, comentar y etiquetar todo a través de las redes sociales, las dos aplicaciones que he comentado se hacen indispensables, ya que el hecho de poder traducir de manera inmediata cualquier texto o incluso mantener una conversación sin conocer la lengua consigue que los usuarios puedan interactuar con todo el mundo, y con Google Earth consigue que el usuario pueda viajar e incluso hacer rutas a vista de pájaro por cualquier lugar del mundo.
 
-
-### Referencias y Bibliografía
-
+***
+### Bibliografía
+***
+    
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * 
 
