@@ -7,15 +7,13 @@
 ***
 Según Lev Manovich es a partir de finales de los setenta cuando aparece una nueva fase de la evolución del ordenador como metamedio, es la hibridación de los medios, donde se fusionan las interfaces y los elementos que comparten las técnicas de software para ofrecer una experiencia nueva y coherente, ya no se experimentan los elementos uno por uno, se transforman en nuevos componentes esenciales. Se puede utilizar una única aplicación de software en la que se aplican las diversas técnicas y si surgiera un nuevo algoritmo o éste se tiene que renovar, se haría directamente a través de "plugins" de la misma aplicación.
 
-~~~
-    “Se puede decir que la hibridación es cuando se agrupan técnicas y formatos de representación de medios físicos y electrónicos
+> “Se puede decir que la hibridación es cuando se agrupan técnicas y formatos de representación de medios físicos y electrónicos
     anteriores con las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar 
     nuevas combinaciones” Lev Manovich, El software toma el mando.
-~~~
-~~~
-    "Todas las técnicas y herramientas que anteriormente eran exclusivas de distintos medios <se reunieron> en el mismo entorno de 
+
+> "Todas las técnicas y herramientas que anteriormente eran exclusivas de distintos medios <se reunieron> en el mismo entorno de 
     software". Lev Manovich, El software toma el mando.
-~~~
+
 
 Para esta actividad hay que buscar dos ejemplos de hibridación y redactar un ensayo. Después de darle muchas vueltas a los posibles ejemplos he consensuado con el profesor tratar los temas:
 - Google Earth
@@ -72,11 +70,12 @@ Para tratar el tema de la hibridación voy a poner como ejemplo la parte de las 
 ![maxresdefault](https://user-images.githubusercontent.com/104820395/167498056-6e760859-d567-4da5-aa5a-f6d9395a42ef.jpeg)
 
 Como dice Ferran Adel en su artículo ["remediación, multimedia e hibridación de los medios"](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
-~~~
-"la hibridación de los medios radica en la relación que se produce entre los diferentes componentes que los forman;
+
+> "la hibridación de los medios radica en la relación que se produce entre los diferentes componentes que los forman;
 en las técnicas de software que los hacen posibles y ... en cómo transmiten la experiencia al usuario, mediante una 
 suma independiente de componentes, o a través de un componente común que integra todos los elementos.". 
-~~~
+
+   
 Vemos cómo esta aplicación también es un claro ejemplo de hibidación, con la unión de las diferentes técnicas que se llevan a cabo para conseguir traducir el texto de una fotografía. Primero hay que abrir la cámara, sería el primer elemento que por sí solo ya tiene su función, se le añade el software necesario para que pueda detectar la letra de la foto y que la reconozca como texto y por último la traducción instantánea. 
 
 
