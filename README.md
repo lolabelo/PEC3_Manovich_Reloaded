@@ -74,11 +74,11 @@ Para tratar el tema de la hibridación voy a poner como ejemplo la parte de las 
 Como dice Ferran Adel en su artículo ["remediación, multimedia e hibridación de los medios"](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/): 
 
 > "la hibridación de los medios radica en la relación que se produce entre los diferentes componentes que los forman;
-en las técnicas de software que los hacen posibles y ... en cómo transmiten la experiencia al usuario, mediante una 
+en las técnicas de software que los hacen posibles y \[...\] en cómo transmiten la experiencia al usuario, mediante una 
 suma independiente de componentes, o a través de un componente común que integra todos los elementos.". 
 
    
-Vemos cómo esta aplicación también es un claro ejemplo de hibidación, con la unión de las diferentes técnicas que se llevan a cabo para conseguir traducir el texto de una fotografía. Primero hay que abrir la cámara, sería el primer elemento que por sí solo ya tiene su función, se le añade el software necesario para que pueda detectar la letra de la foto y que la reconozca como texto y por último la traducción instantánea. 
+Vemos cómo esta aplicación también es un claro ejemplo de hibridación, con la unión de las diferentes técnicas que se llevan a cabo para conseguir traducir el texto de una fotografía. Primero hay que abrir la cámara, sería el primer elemento que por sí solo ya tiene su función, se le añade el software necesario para que pueda detectar la letra de la foto y que la reconozca como texto y por último la traducción instantánea. 
 
 
 ***
@@ -86,6 +86,7 @@ Vemos cómo esta aplicación también es un claro ejemplo de hibidación, con la
 ***
 
 Tengo que decir que no he utilizado ninguna de las dos aplicaciones que he mencionado y que las estoy conociendo ahora. Como traductor he utilizado otras aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividad.
+    
 En nuestro entorno hay muchísimos ejemplos de hibridación, son mezclas de contenidos y/o componentes que al integrarse entre ellos le transmiten una nueva experiencia al usuario, casi todo lo que nos rodea podría ser un caso de hibridación.
 
 Con el auge de compartir, comentar y etiquetar todo a través de las redes sociales, las dos aplicaciones que he comentado se hacen indispensables, ya que el hecho de poder traducir de manera inmediata cualquier texto o incluso mantener una conversación sin conocer la lengua consigue que los usuarios puedan interactuar con todo el mundo, y con Google Earth consigue que el usuario pueda viajar e incluso hacer rutas a vista de pájaro por cualquier lugar del mundo.
