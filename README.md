@@ -5,7 +5,7 @@
 ***
 ## **Introducción**
 ***
-Según Lev Manovich es a partir de finales de los setenta cuando aparece una nueva fase de la evolución del ordenador como metamedio, es la hibridación de los medios, donde se fusionan las interfaces y los elementos que comparten las técnicas de software para ofrecer una experiencia nueva y coherente, ya no se experimentan los elementos uno por uno, se transforman en nuevos componentes esenciales. Se puede utilizar una única aplicación de software en la que se aplican las diversas técnicas y si surgiera un nuevo algoritmo o éste se tiene que renovar, se haría directamente a través de "plugins" de la misma aplicación.
+Según Lev Manovich es a partir de finales de los setenta cuando aparece una nueva fase de la evolución del ordenador como metamedio, es la **hibridación de los medios**, donde se fusionan las interfaces y los elementos que comparten las técnicas de software para ofrecer una experiencia nueva y coherente, ya no se experimentan los elementos uno por uno, se transforman en nuevos componentes esenciales. Se puede utilizar una única aplicación de software en la que se aplican las diversas técnicas y si surgiera un nuevo algoritmo o éste se tiene que renovar, se haría directamente a través de "plugins" de la misma aplicación.
 
 > “Se puede decir que la hibridación es cuando se agrupan técnicas y formatos de representación de medios físicos y electrónicos
     anteriores con las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar 
@@ -20,7 +20,7 @@ Para esta actividad hay que buscar dos ejemplos de hibridación y redactar un en
 - La app Traductor de Google.
  
 ***
-## Re-descubriendo la hibridacion: Google Earth
+## Re-descubriendo la hibridacion: **Google Earth**
 ***
     
 ![GoogleEarth](https://user-images.githubusercontent.com/104820395/167006066-8b168553-2be0-4a14-a530-0519ca6ca15e.jpeg)
@@ -32,7 +32,7 @@ Es una herramienta que ha ido evolucionando. En la actualidad sus principales fu
 * Otorgar volumen a valles, montañas o edificios.
 * Calcular la distancia que existe entre dos puntos del mapa.
 * Consultar la altura de montañas o ver fallas y volcanes de cerca.
-* Visulaizar el estado de las nubes
+* Visualizar el estado de las nubes
 * Con la función "voyager" se puede conocer historias sobre lugares concretos contadas por expertos.
 * Participar en minijuegos basados en nuestras habilidades geográficas, como por ejemplo "Carmen Sandiego: The Crown Jewels Caper"
 * En la opción "proyectos" es posible crear representaciones de distintos lugares a través de sus imágenes.
@@ -44,12 +44,13 @@ Es una herramienta que ha ido evolucionando. En la actualidad sus principales fu
 
 
 Existen otras variantes de Google Earth como:
-- Google Earth Pro con la que se puede importar o exportar datos GIS, realizar mediciones de distancias avanzadas de áreas, otrabajar con datos de catastro de algunos países (muy útil para calcular los metros cuadrados de una zona concreta y saber el último precio de venta de una propiedad entre otros.
-- Google Earth VR que es la versión en realidad virtual, permite explorar el mundo como si fuéramos nosotros mismos quien lo sobrevolamos a través de un simulador de vuelo.
-- Google Earth Space con el que se pueden visitar otros planetas y ver representaciones de las estrellas y constelaciones.
+- **Google Earth Pro** con la que se puede importar o exportar datos GIS, realizar mediciones de distancias avanzadas de áreas, o trabajar con datos de catastro de algunos países (muy útil para calcular los metros cuadrados de una zona concreta y saber el último precio de venta de una propiedad entre otros).
+- **Google Earth VR** que es la versión en realidad virtual, permite explorar el mundo como si fuéramos nosotros mismos quien lo sobrevolamos a través de un simulador de vuelo.
+- **Google Earth Space** con el que se pueden visitar otros planetas y ver representaciones de las estrellas y constelaciones.
 
-Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos que usa Google Earth como por ejemplo en las imágenes (visualización, información y metadatos...), goemetría (objetos gráficos, geográficos...), matrices, algoritmos especializados (algoritmos Landsat y Sentinel-1.), importación de archivos raster, importación de tablas de datos, exportación de datos, la combinación de mapas con representación 3D, conexión con GPS, diferentes interfaces según el idioma del país donde se encuentra el usuario, versión en los tres sistemas operativos más importantes (Windows, Linux y MAC), inclusión de enlaces y puntos de interés,... Con esto quiero demostrar que esta aplicación es un claro ejemplo de hibridación ya que se han agrupado diversas técnicas y formatos para crear una sola aplicación con todas las funciones juntas.
-
+Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos que usa Google Earth como por ejemplo en las imágenes (visualización, información y metadatos...), goemetría (objetos gráficos, geográficos...), matrices, algoritmos especializados (algoritmos Landsat y Sentinel-1.), importación de archivos raster, importación de tablas de datos, exportación de datos, la combinación de mapas con representación 3D, conexión con GPS, diferentes interfaces según el idioma del país donde se encuentra el usuario, versión en los tres sistemas operativos más importantes (Windows, Linux y MAC), inclusión de enlaces y puntos de interés, entre otros. 
+Con esto quiero demostrar que esta aplicación es un claro ejemplo de hibridación ya que se han agrupado diversas técnicas y formatos para crear una sola aplicación.
+    
 
 ![images](https://user-images.githubusercontent.com/104820395/167017510-267b7d6b-1bcf-4758-a2a3-8f3e6c7f1035.jpeg)
 ***
