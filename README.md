@@ -38,9 +38,7 @@ Es una herramienta que ha ido evolucionando. En la actualidad sus principales fu
 * En la opción "proyectos" es posible crear representaciones de distintos lugares a través de sus imágenes.
 
 
-
-![1366_2000](https://user-images.githubusercontent.com/104820395/167016493-155841f1-83fe-41ea-8770-e4c04050a3ac.png)
-
+![167016493-155841f1-83fe-41ea-8770-e4c04050a3ac](https://user-images.githubusercontent.com/104820395/168016682-efdf7416-5b41-4289-b3ee-bbcb757c2c49.png)
 
 
 Existen otras variantes de Google Earth como:
@@ -52,12 +50,18 @@ Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos
 Con esto quiero demostrar que esta aplicación es un claro ejemplo de hibridación ya que se han agrupado diversas técnicas y formatos para crear una sola aplicación.
     
 
-![images](https://user-images.githubusercontent.com/104820395/167017510-267b7d6b-1bcf-4758-a2a3-8f3e6c7f1035.jpeg)
+![coordenadas-geograficas-en-grados-google-maps](https://user-images.githubusercontent.com/104820395/168019342-d0d00bd6-3099-445d-b2f7-8754c6547120.png)
+    
+    
+
 ***
 ## Re-descubriendo la hibridacion: App Traductor de Google
 ***
-![como-activar-el-traductor-de-google-en-una-pagina-de-google-chrome-1-1200x640](https://user-images.githubusercontent.com/104820395/167497421-2d55e3e9-abb7-4531-b5e4-b31bdff46b6f.jpeg)
 
+
+![167497421-2d55e3e9-abb7-4531-b5e4-b31bdff46b6f](https://user-images.githubusercontent.com/104820395/168019608-e9ca271c-4871-42ca-ab50-f0c1527c9521.jpeg)
+
+    
 
 Google Translate es una herramienta muy útil para la traducción de palabras y frases de un idioma a otro, pero no es lo único que hace, las funciones más conocidas son:
 * Traduccionesde texto, como ya he dicho,
