@@ -2,6 +2,9 @@
 ##### Autor: ***Lola Belotto***
 ##### Fecha: Mayo 2022
 ![libro manovich](https://user-images.githubusercontent.com/104820395/166888962-618c79b7-cd19-46ef-87d1-ffac616afd5a.jpg)
+![Lev_Manovich_—_How_to_analyze_culture_using_social_networks](https://user-images.githubusercontent.com/104820395/168021162-271c77de-c236-4910-a39b-e0fedf7dde1b.jpg)
+
+
 ***
 ## **Introducción**
 ***
@@ -59,7 +62,8 @@ Con esto quiero demostrar que esta aplicación es un claro ejemplo de hibridaci�
 ***
 
 
-![167497421-2d55e3e9-abb7-4531-b5e4-b31bdff46b6f](https://user-images.githubusercontent.com/104820395/168019608-e9ca271c-4871-42ca-ab50-f0c1527c9521.jpeg)
+![167497421-2d55e3e9-abb7-4531-b5e4-b31bdff46b6f](https://user-images.githubusercontent.com/104820395/168019892-3194c553-5c28-4261-adbf-6ddc90b7c36b.jpeg)
+
 
     
 
@@ -73,7 +77,10 @@ Google Translate es una herramienta muy útil para la traducción de palabras y 
 
 Para tratar el tema de la hibridación voy a poner como ejemplo la parte de las traducciones instantáneas de la cámara. 
 
-![maxresdefault](https://user-images.githubusercontent.com/104820395/167498056-6e760859-d567-4da5-aa5a-f6d9395a42ef.jpeg)
+
+    
+![167498056-6e760859-d567-4da5-aa5a-f6d9395a42ef](https://user-images.githubusercontent.com/104820395/168021282-78b00bd8-cd63-4298-a1b9-9ffe5dc7a2c7.jpeg)
+
 
 Como dice Ferran Adel en su artículo ["remediación, multimedia e hibridación de los medios"](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/): 
 
