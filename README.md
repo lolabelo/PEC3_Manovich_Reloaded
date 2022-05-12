@@ -53,9 +53,10 @@ Todo lo explicado hasta ahora es posible gracias a la combinación de algoritmos
 Con esto quiero demostrar que esta aplicación es un claro ejemplo de hibridación ya que se han agrupado diversas técnicas y formatos para crear una sola aplicación.
     
 
-![coordenadas-geograficas-en-grados-google-maps](https://user-images.githubusercontent.com/104820395/168019342-d0d00bd6-3099-445d-b2f7-8754c6547120.png)
+
     
-    
+![coordenadas-geograficas-en-grados-google-maps](https://user-images.githubusercontent.com/104820395/168021760-81969e77-7c30-47c1-abe3-d281b2a15d1e.png)
+   
 
 ***
 ## Re-descubriendo la hibridacion: App Traductor de Google
