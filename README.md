@@ -111,7 +111,7 @@ Con el auge de compartir, comentar y etiquetar todo a través de las redes socia
 * **13 cosas que podrás hacer con el nuevo Google Eart para android.** [en línea][consulta 05/05/2022] Disponible en: https://www.xatakandroid.com/navegacion-y-mapas/13-cosas-que-podras-hacer-con-el-nuevo-google-earth-para-android 
 * MORALES, AURELIO. **Google Earth Engine y cómo acceder a sus algoritmos desde QGIS.** [consulta 05/05/2022] Disponible en: https://mappinggis.com/2020/01/google-earth-engine-y-como-acceder-a-sus-algoritmos-desde-qgis/
 * PLASCENCIA, JOSE LUIS. **Cómo usar Google Translate y sus múltiples funciones.** 13/12/2021 [consulta 05/05/2022] Disponible en: https://es.digitaltrends.com/celular/como-usar-el-traductor-de-google/
-
+* ADELL, Ferran. **Remediación, multimedia e hibridación de los medios.** [en línea] [consulta 05/05/2022] Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans
 
 
 
